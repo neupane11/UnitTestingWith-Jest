@@ -1,0 +1,23 @@
+{
+  "name": "UnitTestingWith-Jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neupane11/UnitTestingWith-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neupane11/UnitTestingWith-Jest/issues"
+  },
+  "homepage": "https://github.com/neupane11/UnitTestingWith-Jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
